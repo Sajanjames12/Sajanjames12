@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sajanjames12
+- 👋 Hi, I’m Sajan James, @Sajanjames12
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the odin project
 - 💞️ I’m looking for an internship in web development.
