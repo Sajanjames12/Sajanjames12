@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sajan James, @Sajanjames12
-- 👀 I’m interested in web development
+- 👀 I’m on my path to become a fullstack developer
 - 🌱 I’m currently learning the odin project
 - 💞️ I’m looking for an internship in web development.
 - 📫 You can reach me at Sajanjames12@icloud.com
