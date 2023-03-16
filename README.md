@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sajan James, @Sajanjames12
 - 👀 I’m on my path to become a fullstack developer
-- 🌱 I’m currently learning the odin project
-- 💞️ I’m looking for an internship in web development.
+- 🌱 I’m currently learning ios development
+- 💞️ I’m looking for a junior role in app development
 - 📫 You can reach me at Sajanjames12@icloud.com
 
 <!---
