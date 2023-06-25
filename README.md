@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sajan James, @Sajanjames12
-- 🌱 I’m currently learning ios development
-- 💞️ I’m looking for a junior role in app development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking for a junior role 
 - 📫 You can reach me at Sajanjames12@icloud.com
 
 <!---
