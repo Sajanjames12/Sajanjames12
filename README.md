@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sajan James, @Sajanjames12
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking for a junior role 
+- 🌱 I’m currently learning IOS development using Swift. 
+- 💞️ I’m looking for a junior role/Internship. I am currently in Dublin, Ireland.
 - 📫 You can reach me at Sajanjames12@icloud.com
 
 <!---
